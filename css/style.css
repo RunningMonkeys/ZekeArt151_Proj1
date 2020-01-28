@@ -1,0 +1,29 @@
+/* CSS Styles */
+body{
+	border-width: 10px;
+	border-style: inset;
+	border-color: #31AF7B;
+	padding: 10px 10px 10px 10px;
+	background-color: #108C74;
+}
+html{
+	background-color: green;
+}
+h1{
+	 font-family: 'Archivo Black', sans-serif;
+	 color: black;
+}
+head{
+	
+}
+
+p {
+	border-width: 10px;
+	border-style: outset;
+	border-color: teal;
+	padding: 10px 10px 10px 10px;
+	font-family: 'Press Start 2P', cursive;
+	color: red;
+	background-color:#1FC7C5;
+	line-height: 1.2;
+}
