@@ -1,17 +1,26 @@
 /* CSS Styles */
 body{
-	border-width: 10px;
-	border-style: inset;
-	border-color: #31AF7B;
-	padding: 10px 10px 10px 10px;
-	background-color: #108C74;
+	
+	
+  
 }
 html{
-	background-color: green;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-image: url("whyBrian.jpg");
+	background-color: #108C74;
 }
 h1{
-	 font-family: 'Archivo Black', sans-serif;
-	 color: black;
+	border-width: 10px;
+	border-style: outset;
+	border-color: green;
+	padding: 10px 10px 10px 10px;
+	font-family: 'Archivo Black', sans-serif;
+	color: Black;
+	background-color:#20a106;
+	line-height: 1.2;
 }
 head{
 	
@@ -27,3 +36,32 @@ p {
 	background-color:#1FC7C5;
 	line-height: 1.2;
 }
+
+div {
+	border-width: 10px;
+	border-style: outset;
+	border-color: #660909;
+	padding: 20px 20px 20px 20px;
+	font-family: 'Press Start 2P', cursive;
+	color: red;
+	line-height: 1.2;
+	background-color: #960f0f;
+	
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.b1{
+	border-width: 10px;
+	border-style: outset;
+	border-color: teal;
+	padding: 10px 10px 10px 10px;
+	font-family: 'Press Start 2P', cursive;
+	color: red;
+	background-color:#1FC7C5;
+	line-height: 1.2;
+}
+
