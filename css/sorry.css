@@ -1,0 +1,28 @@
+/* CSS Styles */
+body{
+	
+	
+  
+}
+
+html{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-image: url("apology.jpg");
+}
+
+.person{
+	font-family: 'Indie Flower', cursive;
+	color : green;
+	
+	
+}
+
+.robot{
+	font-family: 'Source Code Pro', monospace;
+	color : yellow;
+	
+	
+}

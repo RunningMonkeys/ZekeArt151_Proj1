@@ -4,6 +4,33 @@ body{
 	
   
 }
+
+a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1FC7C5;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #1FC7C5;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
 html{
 	background-size: cover;
 	background-position: center;
