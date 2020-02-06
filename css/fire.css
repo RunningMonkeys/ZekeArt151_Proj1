@@ -1,0 +1,19 @@
+
+
+div {
+	border-width: 10px;
+	border-style: outset;
+	border-color: #660909;
+	padding: 20px 20px 20px 20px;
+	font-family: 'Source Code Pro', monospace;
+	color: orange;
+	line-height: 1.2;
+	background-color: #960f0f;
+	
+}
+
+html{
+	font-family: 'Source Code Pro', monospace;
+	background-color: red;
+}
+
